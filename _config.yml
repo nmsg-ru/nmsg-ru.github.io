@@ -8,20 +8,19 @@ description: "Массаж в Нагатино-Садовники и Нагат�
 
 
 # Team names, titles and social links
-people:
+prices:
 
+- name: Детский массаж
+  pic: 1
+  description: 1000р. 30мин
 
-- name: Альбина
+- name: Спортивный массаж
   pic: 2
-  position: Массажист
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  description: 1200р. 45 мин
 
+- name: Антицеллюлитный
+  pic: 3
+  description: 1500р. 60мин.
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
